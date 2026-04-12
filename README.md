@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=DqEWDQfDiOk
 
 ## Narratives
 Enhancement One Narrative: describes the enhancement process, challenges I faced, and what I learned during the Software Design & Engineering enhancement
+
 Enhancement Two Narrative: describes the enhancement process, challenges I faced, and what I learned during the Algorithms & Data Structures enhancement
+
 Enhancement Three Narrative: describes the enhancement process, challenges I faced, and what I learned during the Databases enhancement
 
 ## Professional Self-Assessment
