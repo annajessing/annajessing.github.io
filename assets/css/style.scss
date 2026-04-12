@@ -2,10 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
-#main_content a {
+#main a {
   color: #4d6bb2 !important;
 }
 
-#main_content a:hover {
+#main a:hover {
   color: #ff4fd8;
 }
