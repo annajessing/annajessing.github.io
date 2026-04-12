@@ -2,10 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
-#main a {
+#main .markdown-body a {
   color: #3d558e !important;
 }
 
-#main a:hover {
+#main .markdown-body a:hover {
   color: #8297c9 !important;
 }
