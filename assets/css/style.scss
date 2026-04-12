@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+#main_content a {
+  color: #00e5ff;
+}
+
+#main_content a:hover {
+  color: #ff4fd8;
+}
