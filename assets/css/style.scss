@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 #main_content a {
-  color: #4d6bb2;
+  color: #4d6bb2 !important;
 }
 
 #main_content a:hover {
