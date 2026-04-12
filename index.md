@@ -12,17 +12,17 @@ You can view the original code for the Corner Grocer application [here](https://
 ##### Overview:
 To demonstrate growth in my skills and abilities in software design and engineering and programming languages, I translated this C++ program into Python. I also demonstrated my ability to create a more robust program following coding best practices by incorporating additional input validation, error handling, and eliminating many hardcoded values to make future updates as seamless as possible.  
 
-For a more detailed narrative describing the enhancement process, challenges I faced, and what I learned, please visit this link.
+For a more detailed narrative describing the enhancement process, challenges I faced, and what I learned for this particular enhancement, please visit this link.
 
 ## Enhancement 2: Algorithms & Data Structures
 ##### Overview:
 I chose to include this artifact in my portfolio because I can demonstrate growth in my skills and abilities in algorithms and data structures. The final application will use a non-relational database instead of reading data from a text file. As a result of this modification, new data structures must be created to effectively and efficiently access and loop through the Corner Grocer's sales data, creating the perfect opportunity for me to showcase my skills and abilities in algorithms and data structures... This enhancement showcases my understanding of the data structures required for application logic to work with documents stored in a non-relational database in an optimized and efficient way.
 
-For a more detailed narrative describing the enhancement process, challenges I faced, and what I learned, please visit this link.
+For a more detailed narrative describing the enhancement process, challenges I faced, and what I learned for this particular enhancement, please visit this link.
 
 
 ## Enhancement 3: Databases
 ##### Overview:
 I chose to include this artifact in my portfolio because a real-world version of this application would use a database. Using a file to store purchase history data indicates that the current process of recording and/or obtaining this data is inefficient. Whether users are manually hand-jamming purchase history data into this file as customers make purchases or if they are downloading a copy of the data from a second storage location, neither of these methods are efficient for a business because they involve unnecessary manual steps. Storing purchase history data in a database is a better long-term solution for this application for many reasons... This Python program will be greatly improved by connecting directly to a database storing purchase history information. 
 
-For a more detailed narrative describing the enhancement process, challenges I faced, and what I learned, please visit this link.
+For a more detailed narrative describing the enhancement process, challenges I faced, and what I learned for this particular enhancement, please visit this link.
