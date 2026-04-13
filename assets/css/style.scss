@@ -2,12 +2,21 @@
 ---
 @import "{{ site.theme }}";
 
+// #main .markdown-body a {
+//   color: #45731d !important;
+// }
+
+// #main .markdown-body a:hover {
+//   color: #63a52a !important;
+// }
+
+
 #main .markdown-body a {
-  color: #45731d !important;
+  color: #493282 !important;
 }
 
 #main .markdown-body a:hover {
-  color: #63a52a !important;
+  color: #71609e !important;
 }
 
 .wrapper {
