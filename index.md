@@ -1,6 +1,4 @@
-# Computer Science Capstone
-
-# [Professional Self-Assessment goes here]
+## [Professional Self-Assessment goes here]
 
 ## Code Review
 This code review walks through the functionality of the original application, analyzes areas for improvement, and discusses the three enhancements that will be made to demonstrate my skills. Please visit **[this link](https://youtu.be/DqEWDQfDiOk)** to watch my code review.
