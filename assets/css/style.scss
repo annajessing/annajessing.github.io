@@ -2,17 +2,15 @@
 ---
 @import "{{ site.theme }}";
 
+// modify title "Computer Science Capstone..."
 p.tagline {
   text-align: center;
   font-size: 25px;
 }
 
+// modify color of links to be more readable
 a {
   color: #c1ebdd !important;
-}
-
-div.creds {
-  color: black;
 }
 
 #main .markdown-body a {
@@ -23,6 +21,12 @@ div.creds {
   color: #38679e !important;
 }
 
+// creds = credits at the very bottom of the screen
+div.creds {
+  color: black;
+}
+
+// modify width of the main section so text fills more of the screen
 .wrapper {
     width: 1000px !important;
 }
