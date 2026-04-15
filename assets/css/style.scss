@@ -2,12 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-#main .markdown-body a {
-  color: #45731d !important;
-}
-
-#main .markdown-body a:hover {
-  color: #63a52a !important;
+.tagline {
+  align: center;
 }
 
 .wrapper {
