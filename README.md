@@ -14,7 +14,7 @@
 4. Open the Enhanced Artifact folder in your IDE. You should see two .py files and a requirements.txt file.
 5. Create a virtual environment and select the Python Intrepeter you created in step 2.
     - If using Visual Studio Code, you can follow [these steps](https://code.visualstudio.com/docs/python/python-tutorial#_create-a-virtual-environment).
-6. Open a new terminal and 'cd' to the directory containing the requirements.txt file
+6. Enter your virtual environment, open a new terminal, and 'cd' to the directory containing the requirements.txt file
 7. Run this command: 'pip install -r requirements.txt'
 
 ### To query the database you will need to use the read-only user role when prompted:
