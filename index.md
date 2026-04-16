@@ -43,7 +43,7 @@ I did meet the course outcomes that I planned to meet for the database enhanceme
 
 As I was working on this enhancement, I solidified my understanding of MongoDB and its non-relational structure. I made sure to learn how to interact with the database using as many methods as I could, including the mongo shell, the built-in MongoDB extension for Visual Studio Code, and the MongoDB Atlas data explorer. In the end, my biggest takeaway was that the data explorer helped me better visualize my cluster and assisted me with determining the correct commands to use in the mongo shell and built-in MongoDB extension for Visual Studio Code.  
 
-Utilizing the MongoDB documentation for creating and initially connecting to my database was a great resource for me, especially when I faced challenges. For example, I initially had trouble creating a successful connection to my database. I had to try a handful of different methods before I was able to make a successful connection. In the end, I was able to connect after adjusting my connection string to align with the structure found in the MongoDB documentation and resetting my password. 
+Utilizing the MongoDB documentation for creating and initially connecting to my database was a great resource for me, especially when I faced challenges. For example, I initially had trouble creating a successful connection to my database. I had to try a handful of different methods before I was able to make a successful connection. In the end, I was able to connect after adjusting my connection string to align with the structure found in the MongoDB documentation. 
 
 
 ##### References:
