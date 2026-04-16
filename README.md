@@ -17,5 +17,6 @@
 
 ### To query the database you will need to use the read-only user role when prompted:
 username: employee
+
 password: thiswillchange
 
