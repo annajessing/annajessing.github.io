@@ -6,6 +6,9 @@ This code review walks through the functionality of the original application, an
 You can view the original code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/blob/main/Original%20Artifact.zip)**.
 
 ## Final Product
+You can view the enhanced code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/blob/main/Enhanced%20Artifact.zip)**.
+
+### Narratives
 For my three enhancements, I selected the Corner Grocer application. I developed this C++ program for my final project in the SNHU Programming Languages course, which I took two years ago. In the original version of this application, the program would begin by reading a text file containing purchase history data for the produce section of Corner Grocer. The program would load the name of each unique item into a vector and load the name of each unique item and how many times it had been purchased into a map. By interacting with a menu, the user could accomplish two tasks: view how many times a particular produce item was purchased or view a complete list of how many times each produce item was purchased. When viewing the complete list, the user could choose whether the number of times each item was purchased would be represented by digits or a histogram.  
 
 ### Enhancement 1: Software Design & Engineering
