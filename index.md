@@ -47,10 +47,10 @@ Utilizing the MongoDB documentation for creating and initially connecting to my 
 
 
 ##### References:
-Jessing, A. (2025). Animal_Shelter.py [Unpublished code]. CS-340: Client/Server Development, Southern New Hampshire University.
+Jessing, A. (2025). *Animal_Shelter.py* [Unpublished code]. CS-340: Client/Server Development, Southern New Hampshire University.
 
-MongoDB, Inc. (n.d.a). Access Data From a Cursor. MongoDB Docs. https://www.mongodb.com/docs/languages/python/pymongo-driver/current/crud/query/cursors/#:~:text=Troubleshooting-,Overview,those%20documents%20in%20a%20cursor. 
+MongoDB, Inc. (n.d.a). *Access Data From a Cursor.* MongoDB Docs. https://www.mongodb.com/docs/languages/python/pymongo-driver/current/crud/query/cursors/#:~:text=Troubleshooting-,Overview,those%20documents%20in%20a%20cursor. 
 
-MongoDB, Inc. (n.d.b). Configure Security Features for Clusters. MongoDB Docs. https://www.mongodb.com/docs/atlas/setup-cluster-security/   
+MongoDB, Inc. (n.d.b). *Configure Security Features for Clusters.* MongoDB Docs. https://www.mongodb.com/docs/atlas/setup-cluster-security/   
 
-MongoDB, Inc. (n.d.c). JSON and BSON. MongoDB. https://www.mongodb.com/resources/basics/json-and-bson 
+MongoDB, Inc. (n.d.c). *JSON and BSON.* MongoDB. https://www.mongodb.com/resources/basics/json-and-bson 
