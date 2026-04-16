@@ -15,3 +15,7 @@
 5. Open a new terminal and 'cd' to the directory containing the requirements.txt file
 6. Run this command: 'pip install -r requirements.txt'
 
+### To query the database you will need to use the read-only user role when prompted:
+username: employee
+password: thiswillchange
+
