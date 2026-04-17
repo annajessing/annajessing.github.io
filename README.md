@@ -19,8 +19,5 @@
 8. Run this command: `pip install -r requirements.txt`.
 9. The virtual environment will now be able to use the modules in requirements.txt.
 
-### To query the database you will need to use the read-only user role when prompted:
-username: employee
 
-password: thiswillchange
 
