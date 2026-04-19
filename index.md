@@ -14,10 +14,10 @@ The artifact I chose for this ePortfolio exhibits my strengths and skills as a b
 ## Code Review
 This code review walks through the functionality of the original application, analyzes areas for improvement, and discusses the three enhancements that will be made to demonstrate my skills in software engineering and design, algorithms and data structures, and databases. Please visit **[this link](https://youtu.be/DqEWDQfDiOk)** to watch my code review.
 
-You can view the original code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/blob/main/Original%20Artifact.zip)**.
+You can view the original code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/tree/main)**.
 
 ## Enhanced Artifact 
-You can view the enhanced code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/blob/main/Enhanced%20Artifact.zip)**.
+You can view the enhanced code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/tree/main)**.
 
 ### Introduction
 For my three enhancements, I selected the Corner Grocer application. I developed this C++ program for my final project in the SNHU Programming Languages course, which I took two years ago. In the original version of this application, the program would begin by reading a text file containing purchase history data for the produce section of Corner Grocer. The program would load the name of each unique item into a vector and load the name of each unique item and how many times it had been purchased into a map. By interacting with a menu, the user could accomplish two tasks: view how many times a particular produce item was purchased or view a complete list of how many times each produce item was purchased. When viewing the complete list, the user could choose whether the number of times each item was purchased would be represented by digits or a histogram.  
