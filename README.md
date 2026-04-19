@@ -19,5 +19,5 @@
 8. Run this command: `pip install -r requirements.txt`.
 9. The virtual environment will now be able to use the modules in requirements.txt.
 
-
+#### Credentials to access are available upon request
 
