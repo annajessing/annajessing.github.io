@@ -12,11 +12,11 @@ The strengths and skills I have showcased throughout the Computer Science progra
 The artifact I chose for this ePortfolio exhibits my strengths and skills as a backend application developer. I created the original application during my Programming Languages course two years ago. Since then, I have strengthened my skills in software design and engineering, algorithms and data structures, and databases. I chose to enhance this application in particular because of its potential to be more robust and user-friendly, and it presented the perfect opportunity for me to demonstrate my growth. Through the creation of my portfolio, I demonstrated my knowledge of C++ and Python and secure coding best practices. Additionally, I have displayed my strengths in designing and creating a non-relational database, integrating it with the backend of a software application, and utilizing a combination of database queries and data structures to read data from the database and handle data within the software application. I also demonstrated my ability to implement secure database queries and secure interactions with the database including user roles and requiring authentication and authorization to perform those queries. 
 
 ## Code Review
-This code review walks through the functionality of the original application, analyzes areas for improvement, and discusses the three enhancements that will be made to demonstrate my skills. Please visit **[this link](https://youtu.be/DqEWDQfDiOk)** to watch my code review.
+This code review walks through the functionality of the original application, analyzes areas for improvement, and discusses the three enhancements that will be made to demonstrate my skills in software engineering and design, algorithms and data structures, and databases. Please visit **[this link](https://youtu.be/DqEWDQfDiOk)** to watch my code review.
 
 You can view the original code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/blob/main/Original%20Artifact.zip)**.
 
-## Final Product
+## Enhanced Artifact 
 You can view the enhanced code for the Corner Grocer application **[here](https://github.com/annajessing/annajessing.github.io/blob/main/Enhanced%20Artifact.zip)**.
 
 ### Introduction
